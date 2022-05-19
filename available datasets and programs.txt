@@ -1,0 +1,18 @@
+Programs available(Stata):
+CO-2011,2014
+AZ-2011,2014
+MD-2011,2014
+NJ-2011,2014
+**Note - 2011 program can be adjusted for 2012,2013 state-year datasets
+Programs available - (SAS)
+CO-2012,2013
+AZ-2012,2013
+NJ-2012,2013
+MD-2012,2013
+
+
+SAS Files ready for extraction:
+AZ - none
+CO - 2011, 2014
+MD - 2013,2014
+NJ - 2014
